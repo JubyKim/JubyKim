@@ -16,6 +16,16 @@
 </p>
 
 <br>
+
+
+<h3 align="center"> 🧸 Me 🧸 </h3>
+<p align="center">
+  <a href="https://boiled-crowley-c85.notion.site/b49e5bcdffa3461091327a00744d4fe9"><img src="https://img.shields.io/badge/Notion-#000000?style=flat-square&logo=Notion&logoColor=white&link=https://boiled-crowley-c85.notion.site/b49e5bcdffa3461091327a00744d4fe9"/></a>
+  <a href="mailto:uon9816@naver.com"><img src="https://img.shields.io/badge/mail-d14836?style=flat-square&logo=mail&logoColor=white&link=uon9816@naver.com"/></a>
+</p>
+<br>
+
+
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJubyKim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
