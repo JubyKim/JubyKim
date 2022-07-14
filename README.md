@@ -29,8 +29,9 @@
 
 [🗃️자격증 Certification 🗃️](https://www.notion.so/f0f125a8238746b6b5300636173c6776)
   
-</div>
 </p>
+</div>
+
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
