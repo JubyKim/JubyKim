@@ -1,4 +1,4 @@
-### Hi there 👋 I'm iOS Developer JubyKim
+### Hi there 👋 I'm JubyKim
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -18,8 +18,6 @@
 <br>
 
 <div>
-# 김주은
-서울여자대학교 소프트웨어융합학과 17
 
 [프로젝트 Project 🏆](https://www.notion.so/1c3c2da97dc54e2ca933e0ab5fe8f68b)
 
