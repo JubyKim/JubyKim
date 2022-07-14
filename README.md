@@ -20,7 +20,7 @@
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-  <a href="https://boiled-crowley-c85.notion.site/b49e5bcdffa3461091327a00744d4fe9"><img src="https://img.shields.io/badge/Notion-#000000?style=flat-square&logo=Notion&logoColor=white&link=https://boiled-crowley-c85.notion.site/b49e5bcdffa3461091327a00744d4fe9"/></a>
+  <a href="https://boiled-crowley-c85.notion.site/b49e5bcdffa3461091327a00744d4fe9"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://boiled-crowley-c85.notion.site/b49e5bcdffa3461091327a00744d4fe9"/></a>
   <a href="mailto:uon9816@naver.com"><img src="https://img.shields.io/badge/mail-d14836?style=flat-square&logo=mail&logoColor=white&link=uon9816@naver.com"/></a>
 </p>
 <br>
