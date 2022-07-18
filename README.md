@@ -11,14 +11,6 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
-
-[🏆프로젝트 Project 🏆](https://www.notion.so/1c3c2da97dc54e2ca933e0ab5fe8f68b)
-
-[📚교육내역 Education 📚 ](https://www.notion.so/b9b7f6e4b62a4036abe1216f7061f8e9)
-
-[🔥활동내역 Activity🔥](https://www.notion.so/0cb37ff786ba4766bf7d9041b45c75d9)
-
-[🗃️자격증 Certification 🗃️](https://www.notion.so/f0f125a8238746b6b5300636173c6776)
   
 </p>
 
