@@ -1,7 +1,8 @@
 <h2 align="center"> Hi there 👋 I'm JubyKim </h2>
 
-<h5 align="center"> - SWU software convergence </h5>
-<h5 align="center"> - SOPT iOS </h5>
+<h5 align="center"> - SWU software convergence
+<br>
+- SOPT iOS </h5>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
