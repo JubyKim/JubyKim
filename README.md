@@ -12,11 +12,6 @@
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
 
-
-</p>
-
-<p align="center">
-
 [🏆프로젝트 Project 🏆](https://www.notion.so/1c3c2da97dc54e2ca933e0ab5fe8f68b)
 
 [📚교육내역 Education 📚 ](https://www.notion.so/b9b7f6e4b62a4036abe1216f7061f8e9)
