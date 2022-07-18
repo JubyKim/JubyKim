@@ -15,8 +15,6 @@
 
 </p>
 
-<br>
-  
 <p align="center">
 
 [🏆프로젝트 Project 🏆](https://www.notion.so/1c3c2da97dc54e2ca933e0ab5fe8f68b)
