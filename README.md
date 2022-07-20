@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there 👋 I'm JubyKim </h2>
 
-<h5 align="center"> - SWU software convergence
+<h5 align="center"> - SWU Software Convergence
 <br>
 - SOPT iOS </h5>
 
